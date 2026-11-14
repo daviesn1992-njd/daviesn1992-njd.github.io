@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daviesn1992-njd.github.io/sitemap.xml
